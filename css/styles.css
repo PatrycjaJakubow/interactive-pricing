@@ -1,0 +1,85 @@
+body {
+  font-family: 'Manrope', sans-serif;
+  background-image: url(../images/bg-pattern.svg);
+  background-repeat: repeat-x;
+  background-size: 100% 50vh;
+  background-color: #FAFBFF;
+
+}
+
+h1 {
+  font-size: 25px;
+  font-weight: 800;
+}
+
+p {
+  font-size: 15px;
+  display: inline-block;
+}
+.firstcont {
+  margin-top: 5%;
+  margin-bottom: 5%;
+  text-align: center;
+}
+
+.box {
+  background-color: white;
+  width: 600px;
+  padding: 3%;
+}
+
+.form-check-input {
+  display: inline-block;
+}
+
+.frequency {
+  text-align: center;
+}
+
+.monthly {
+  margin-right: 10%;
+}
+
+.yearly {
+  margin-left: 3%;
+}
+
+.input[type=range]::-moz-range-thumb{color:#A5F3EB;
+
+}
+
+
+.form-switch {
+  margin-top: 5%;
+}
+
+.price {
+  font-size: 25px;
+  font-weight: 800;
+}
+
+.discount {
+  background-color: #FEECE7;
+  color: #FF8C66;
+
+}
+
+.btn {
+  color: #BDCCFF;
+  background-color: #293356;
+  border: 0;
+  font-size: 12px;
+  padding-left: 25%;
+  padding-right: 25%;
+  margin-top: 20%;
+}
+
+.text {
+  color: #858FAD;
+  font-weight: 600;
+}
+
+.list-group-item {
+  border: 0;
+  font-size: 12px;
+}
